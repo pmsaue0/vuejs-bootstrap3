@@ -53,7 +53,7 @@ awk '{print "//" $0}' node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_
 # In your .vue files you may use pug for html pre-processing
 <template lang="pug">…</template>
 
-# Set up app.scss
+# Set up app.scss by pasting this stuff in it
 $icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
 @import '~bootstrap-sass/assets/stylesheets/_bootstrap.scss';
 @import 'bootstrap-variable-overrides';
