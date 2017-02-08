@@ -2,7 +2,7 @@
   "name": "my-vue-project",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Phillip Sauerbeck <phillip.sauerbeck@healthsparq.com>",
+  "author": "Your mom",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
