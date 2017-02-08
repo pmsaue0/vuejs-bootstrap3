@@ -37,7 +37,6 @@ npm install sass-loader --save-dev
 npm install pug --save-dev
 npm install bootstrap-sass --save-dev
 npm install vue-strap --save-dev
-npm run dev
 
 # Setup your app.scss file as a stylesheet manifest
 mkdir src/assets/styles && touch src/assets/styles/app.scss
@@ -57,9 +56,11 @@ awk '{print "//" $0}' node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_
 $icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
 @import '~bootstrap-sass/assets/stylesheets/_bootstrap.scss';
 @import 'bootstrap-variable-overrides';
-@import '~bootstrap-sass/assets/stylesheets/bootstrap/variables';
-@import '~bootstrap-sass/assets/stylesheets/bootstrap/mixins';
 @import 'overrides';
+
+# Start your server from the command line
+npm run dev
+
 ```
 
 Done.
