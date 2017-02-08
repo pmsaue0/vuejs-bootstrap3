@@ -1,6 +1,6 @@
 # Stock Vue.js with Bootstrap SASS 3
 
-### Clone and play around with Vue.js + Bootstrap 3
+### Option 1: Clone and play around with Vue.js + Bootstrap 3
 
 ``` bash
 # clone this repo
@@ -17,7 +17,7 @@ npm run dev
 
 ```
 
-### Now, you want to build your own app from the ground up?
+### Option 2: Build your own app from the ground up
 
 ``` bash
 # Here's how I did everything.
