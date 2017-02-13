@@ -1,4 +1,4 @@
-# Stock Vue.js with Bootstrap SASS 3
+# Stock Vue.js with Vuestrap + Bootstrap SASS 3
 
 I found bringing uncompiled Bootstrap into my Vue.js app a bit tricky, so here is how I did it.  I did not want to modify the webpack config files.  I wanted to create a stylesheet manifest to import stylesheets and easily override bootstrap variables.
 
