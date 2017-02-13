@@ -7,8 +7,8 @@ I found bringing uncompiled Bootstrap into my Vue.js app a bit tricky, so here i
 ``` bash
 # clone this repo
 
-# install node if you haven't yet
-brew install node
+# install Node if you haven't yet
+[https://nodejs.org/](https://nodejs.org/)
 
 # get into the directory of this app and install dependencies
 npm install --global vue-cli
